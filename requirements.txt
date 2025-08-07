@@ -1,0 +1,6 @@
+tvdatafeed
+pandas_ta
+requests
+pandas
+matplotlib
+mplfinance
